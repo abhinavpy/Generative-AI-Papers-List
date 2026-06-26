@@ -30,6 +30,7 @@ For detailed instructions, please refer to the `CONTRIBUTING.md` file.
 | Title of Paper | Date | Arxiv/Conference Published |
 | -------------- | ---- | -------------------------- |
 | [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) | June 2014 | NeurIPS 2014 |
+| [Auferet](https://auferet.com) | AI game master that remembers your world: persistent memory for characters, places, and lore you upload; solo or multiplayer, 5e & Pathfinder 2e | — |
 | [Auto-Encoding Variational Bayes - Variational Autoendcoders](https://arxiv.org/abs/1312.6114) | December 2013 | arxiv |
 | [Pixel Recurrent Neural Network PixelRNN](https://arxiv.org/abs/1601.06759) | January 2016 | ICML 2016 |
 
